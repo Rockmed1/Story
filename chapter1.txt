@@ -1,7 +1,0 @@
-this is a test.
-second line added with nano
-third line added with pycharm
-
-[3[A
-
-[A[A
